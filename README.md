@@ -1,7 +1,7 @@
 RSAT
 ==================
 
-This repository is used to install the RSAT tools and the Windows 10 workstations
+This repository is used to install the RSAT tools on Windows 10 workstations
 
 Requirements
 ------------
