@@ -1,23 +1,20 @@
-RSAT
-==================
+# Windows Servers Manage
 
-This repository is used to install the RSAT tools on
-* Windows 10 workstations
-* Windows servers 2016/2019
+This repository is used to manage and report Windows Server
 
-Requirements
-------------
+## Requirements
 
-* powershell
+* Powershell
 * administrators privileges
 
+## Execution
 
-Execution
-------------
-```
+```powershell
 .\install_RSAT_win10.ps1 # Windows 10
 .\install_RSAT_win_server.ps1 # Windows 2016/2019
+# to complete
 ```
 
-## 🚀 Authors
+## 🖊 Authors
+
 [Raphaël Diacamille](https://github.com/rdia9)
