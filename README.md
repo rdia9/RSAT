@@ -1,4 +1,4 @@
-# Windows Servers Manage
+# Windows Manage
 
 This repository is used to manage and report Windows Server
 
